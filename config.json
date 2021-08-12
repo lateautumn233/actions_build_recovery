@@ -5,7 +5,7 @@
   "git_email": "3487467850@qq.com",
   "use_own_dt": true,
   "dt_url": "lateautumn233/android_device_xiaomi_lmi-ofrp",
-  "dt_branch": "R11.0",
+  "dt_branch": "twrp",
   "dt_remote": "github",
   "dt_path": "device/xiaomi/apollo",
   "device_code": "apollo",
